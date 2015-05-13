@@ -1,5 +1,7 @@
-= Blog Title
+= Primer proyecto
+
 :hp-image:http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg[]
+
 Este es mi primer post 
 
 image::http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg[]
