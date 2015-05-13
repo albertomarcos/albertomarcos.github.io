@@ -1,5 +1,5 @@
 = Primer proyecto
-:hp-image: http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg[]
+:hp-image:http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg[]
 
 
 == Primer título
