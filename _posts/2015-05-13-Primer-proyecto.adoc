@@ -1,5 +1,5 @@
 = Primer proyecto
-:hp-image:logo.png[]
+:hp-image:logo.png
 
 
 == Primer título
