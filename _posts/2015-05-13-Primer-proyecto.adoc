@@ -1,5 +1,5 @@
 = Primer proyecto
-:hp-image: http://www.conciti.org/wp-content/uploads/ironhack_logo.jpg
+:hp-image: ironhack_logo.png
 
 
 == Primer título
