@@ -1,3 +1,3 @@
 = Blog Title
 Este es mi primer post 
-image::http://http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg
+image::http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg
