@@ -1,5 +1,6 @@
 = Primer proyecto
-:hp-image:ironhack_logo.png[ironhack]
+:hp-image:http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg[]
+
 
 == Primer título
 
