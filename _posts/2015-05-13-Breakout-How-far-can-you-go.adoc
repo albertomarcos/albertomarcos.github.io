@@ -1,11 +1,23 @@
-= Primer proyecto
-:hp-image: ironhack_logo.png
+= Breakout - How far can you go?
+:hp-image: moritz_cover.png
 
 
-== Primer título
+== Moritz's project
 
 
-Este es mi primer post 
+=== How did the idea originate? How big is your team?
+ 
+The idea came during an Erasmus-exchange in France, where he and Breakout’s co-founder thought about organising a Breakout Competition in Germany. The event was successful, with 28 teams participating, raising more than 10.000 € for UNHCR´s refugee fund, teams on planes travelling as far as 3.000km and large media coverage, including TV. Thanks to that awesome starting-point, the team grew from just 2 people, up to 20 (all of them working voluntarily). However, even with so many professionals working together, he lacked some TI basics so they could develop a web-app, and spread the word.
 
-image::http://www.elandroidelibre.com/wp-content/uploads/2014/12/Google-Glass.jpg[]
+image::moritz.png[]
+
+=== How did the professors/Ironhack community help get your project moving?
+
+That’s what he focused on during his last two weeks at our Bootcamp program in Barcelona, where thanks to a great effort and some support, he could completely redefine Breakout’s web. Now, the teams can sign-up online, rather than sending sign-up via email. In addition, during the event, they can track their positions real time and send messages and images which are featured in the liveblog. 
+
+video::npB2WicHFaA[youtube]
+
+Despite all this changes, It doesn't’ lose it’s original purpose, which is helping other ones, so as Moritz says: “we focused on letting sponsors promote teams during the event, promising donations to UNHCR per kilometre traveled.” With this initiative, Moritz found his way to help others while growing and learning himself, something which surely will bring him far.
+ 
+
 
